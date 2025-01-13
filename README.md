@@ -9,5 +9,4 @@ A test script is also included that verifies that the quantized vectors output b
 ### References
 - [Jégou, H., Douze, M., & Schmid, C. (2011). Product Quantization for Nearest Neighbor Search. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(1), 117–128. doi:10.1109/tpami.2010.57](https://sci-hub.se/https://ieeexplore.ieee.org/document/5432202)
 - [Blalock, D.W., & Guttag, J.V. (2021). Multiplying Matrices Without Multiplying. International Conference on Machine Learning](https://arxiv.org/abs/2106.10860)
-
-
+- [nanopq - Pure python implementation of product quantization for nearest neighbor search](https://github.com/matsui528/nanopq)
