@@ -4,6 +4,6 @@ f1 = "out/py_encoded.txt"
 f2 = "out/cpp_encoded.txt"
 
 if filecmp.cmp(f1, f2, shallow=False):
-	print("Encoding verified!")
+  print("Encoding verified!")
 else:
-	print("Encoding error!")
+  print("Encoding error!")
